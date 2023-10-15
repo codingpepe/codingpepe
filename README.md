@@ -1,0 +1,5 @@
+- 👋 Hi, I’m [@codingpepe](https://codingpepe.co)
+- 👀 I’m interested in software engineering, system design, bleeding edge technology, and software architecture
+- 🌱 I’m currently implementing [design patterns](https://github.com/codingpepe/design-pattern) from [Refactoring Guru](https://refactoring.guru)
+- 💞️ I’m looking to collaborate on just anything
+- 📫 How to reach me @codingpepe in [twitter](https://twitter.com/codingpepe) and [facebook](https://facebook.com/codingpepe)
